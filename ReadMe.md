@@ -6,8 +6,8 @@ This is a simple web application built with Streamlit that allows users to uploa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/ocr-web-app.git
-   cd ocr-web-app
+   git clone https://github.com/RaheesAhmed/Image-Tracing-with-OCR
+   cd Image-Tracing-with-OCR
    ```
 2. Install the required libraries:
 
